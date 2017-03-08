@@ -15,11 +15,17 @@ Solutions to problems taught on Dynamic Programming. (8/3/17)
 ### Videos
   1. [Youtube Playlist on Dynamic Programming](https://www.youtube.com/playlist?list=PLfMspJ0TLR5HRFu2kLh3U4mvStMO8QURm)
   
-
-
-###Problem Resources Links:
+### Problem Resources Links:
   1. [CodeChef](https://www.codechef.com/tags/problems/dp)
   2. [Dynamic Programming Practice Problems](https://people.cs.clemson.edu/~bcdean/dp_practice/)
   3. [GeekForGeeks Archive](http://www.geeksforgeeks.org/category/algorithm/dynamic-programming/)
   4. [Codeforces](http://codeforces.com/blog/entry/325)
   
+### Problems for Practice
+* [FCBARCA](http://www.codechef.com/problems/FCBARCA)
+* [DBOY](http://www.codechef.com/problems/DBOY)
+* [Tetrahedron](http://codeforces.com/problemset/problem/166/E)
+* [Fence](http://codeforces.com/problemset/problem/363/B)
+* [Caesar's Legions](http://codeforces.com/problemset/problem/118/D)
+* [Palindrome pairs](http://codeforces.com/problemset/problem/159/D)
+* [PARTY](http://www.spoj.com/problems/PARTY/)
